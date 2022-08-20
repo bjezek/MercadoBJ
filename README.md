@@ -41,4 +41,11 @@ time is to invest, Tuesday through wednesday from 3 to 5 seem to be the best tim
 the lowest point for search traffic in the calendar year?
 Novemeber seems to be the lowest point of the year for search traffic. 
 
+# Analysis
+You can see that financial data aka news on the company affect the search traffic and in term
+has an impact on the stock price as you can see how the data was affected in May through September 
+showing an increase in volatility and stock closing price, it is important not to panic or make major 
+adjustments to holdings as price leveld out after March which would have been a good buying opportunity
+to capitalize on the upside after the initial news had dropped on the company. 
+
 
